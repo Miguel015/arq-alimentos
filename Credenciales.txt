@@ -1,0 +1,11 @@
+Credenciales:
+Usuario
+admin@example.com 
+Contraseña
+1234567890
+
+Pagina
+https://pcmarketia.azurewebsites.net/
+
+CMS Umbraco
+https://pcmarketia.azurewebsites.net/umbraco
